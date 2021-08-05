@@ -1,0 +1,14 @@
+{
+  "name": "chatbotextension",
+  "version": "1.0.0",
+  "description": "Chat Bot",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "ME",
+  "license": "ISC",
+  "dependencies": {
+    "twit": "^2.2.11"
+  }
+}
